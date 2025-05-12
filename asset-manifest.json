@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WEB_ThirdTask/static/css/main.b117cb71.css",
+    "main.js": "/WEB_ThirdTask/static/js/main.f4868820.js",
+    "index.html": "/WEB_ThirdTask/index.html",
+    "main.b117cb71.css.map": "/WEB_ThirdTask/static/css/main.b117cb71.css.map",
+    "main.f4868820.js.map": "/WEB_ThirdTask/static/js/main.f4868820.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b117cb71.css",
+    "static/js/main.f4868820.js"
+  ]
+}
