@@ -2,7 +2,7 @@ import { useContext } from 'react';
 import { PetContext } from './context/PetContext';
 import Toolbar from './components/Toolbar';
 import AddPetForm from './components/AddPetForm';
-import FindPetsForm from './components/FindPetsForm';
+import FindPetsForm from './components/FindPetForm';
 import DeletePetForm from './components/DeletePetForm';
 import Message from './components/Message';
 import PetList from './components/PetList';
